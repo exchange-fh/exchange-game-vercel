@@ -1,2 +1,2 @@
 # Exchange Game
-Built to run flawlessly on Vercel (Node 18).
+Exchange knowledge and ugrade your learning with personalized tiers, from everyday knowledge to deep, exclusive secrets.
